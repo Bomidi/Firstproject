@@ -1,1 +1,2 @@
 s the login name or the user name of the user. This name is unique across the system as it identifies a particular user. Usually people try to have their first name as the their login name but this is not always possible as multiple people can have same first name. In this case there are various techniques that can be used to generate a unique user-name. One of the most popular one is by concatenating initials of your first name with your last name along with your year or birth. For example a user-name could be 'SParker84'. 
+This is extra line
